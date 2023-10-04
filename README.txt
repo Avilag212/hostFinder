@@ -5,7 +5,7 @@ to the guidelines of each country and state in which it is used, I Gabriel, the 
 myself from any illegal purpose for which this script is used.
 Use responsibly.
 
-[AVISO]: Este script foi desenvolvido unica e exclusivamente para testes de penetração
+[AVISO]: Este script foi desenvolvido unica e exclusivamente para pentests
 devidamente autorizados segundo as diretrizes de cada país e/ou estado em que é utilizado,
 eu Gabriel, o autor, me isento por meio deste de qualquer fim ilegal
 para qual este script seja utilizado.
