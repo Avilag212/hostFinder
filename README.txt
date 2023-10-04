@@ -13,6 +13,7 @@ Use com responsabilidade.
 
 [READ THE WARNING BEFORE USE THIS SCRIPT!]:
 How to use:
+Run pip install scapy
 Call the script normally: ./hostFinder.py and pass your ip range on this format: 192.168.0.1/24
 Exemple:    ./hostFinder.py 192.168.0.1/24
 Exemple2:   ./hostFinder.py 10.0.0.1/24
@@ -20,6 +21,7 @@ Example3:   ./hostFinder.py 172.16.0.1/20
 
 [LEIA O AVISO ANTES DE USAR O SCRIPT!]
 Como usar:
+Rode pip install scapy
 Chame o script normalmente: ./hostFinder.py e passe o seu range de rede como parametro
 neste formato: 192.168.0.1/24
 Exemplo:    ./hostFinder.py 192.168.0.1/24
