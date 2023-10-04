@@ -14,22 +14,22 @@ Use com responsabilidade.
 [READ THE WARNING BEFORE USE THIS SCRIPT!]:
 How to use:
 Call the script normally: ./hostFinder.py and pass your ip range on this format: 192.168.0.1/24
-Exemple:    ./hostFinder 192.168.0.1/24
-Exemple2:   ./hostFinder 10.0.0.1/24
-Example3:   ./hostFinder 172.16.0.1/20
+Exemple:    ./hostFinder.py 192.168.0.1/24
+Exemple2:   ./hostFinder.py 10.0.0.1/24
+Example3:   ./hostFinder.py 172.16.0.1/20
 
 [LEIA O AVISO ANTES DE USAR O SCRIPT!]
 Como usar:
-Chame o script normalmente: ./hostFinder e passe o seu range de rede como parametro
+Chame o script normalmente: ./hostFinder.py e passe o seu range de rede como parametro
 neste formato: 192.168.0.1/24
-Exemplo:    ./hostFinder 192.168.0.1/24
-Exemplo2:   ./hostFinder 10.0.0.1/24
-Exemplo3:   ./hostFinder 172.16.0.1/20
+Exemplo:    ./hostFinder.py 192.168.0.1/24
+Exemplo2:   ./hostFinder.py 10.0.0.1/24
+Exemplo3:   ./hostFinder.py 172.16.0.1/20
 
 [Additional information]:
 This script was developed in Python 3, it can be used in Linux or Windows,
-however in Windows call it with the Python interpreter, like this: python ./findHosts <IP_range>
+however in Windows call it with the Python interpreter, like this: python ./findHosts.py <IP_range>
 
 [Informação adicional]:
 Este script foi desenvolvido em python 3, pode ser utilizando em linux ou em Windows,
-porém em Windows chame com o interpretador python, desta maneira: python ./findHosts <IP_range>
+porém em Windows chame com o interpretador python, desta maneira: python findHosts.py <IP_range>
