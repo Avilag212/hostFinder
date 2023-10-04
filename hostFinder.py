@@ -1,4 +1,4 @@
-#!/usr/python3
+#!/usr/bin/python3
 from scapy.all import ARP, Ether, srp
 import socket
 import re
